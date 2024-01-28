@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaylorBarringer
 - 👀 I’m interested in beginner projects
-- 🌱 I’m currently learning C, HTML, CSS, JAVASCRIPT
+- 🌱 I’m currently learning C, C#, Java, HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on anything creative
 - 📫 How to reach me 
 
